@@ -1,0 +1,11 @@
+D:\Usuario\Desktop\ej\bin\Debug\netcoreapp3.1\ej.exe
+D:\Usuario\Desktop\ej\bin\Debug\netcoreapp3.1\ej.deps.json
+D:\Usuario\Desktop\ej\bin\Debug\netcoreapp3.1\ej.runtimeconfig.json
+D:\Usuario\Desktop\ej\bin\Debug\netcoreapp3.1\ej.runtimeconfig.dev.json
+D:\Usuario\Desktop\ej\bin\Debug\netcoreapp3.1\ej.dll
+D:\Usuario\Desktop\ej\bin\Debug\netcoreapp3.1\ej.pdb
+D:\Usuario\Desktop\ej\obj\Debug\netcoreapp3.1\ej.csprojAssemblyReference.cache
+D:\Usuario\Desktop\ej\obj\Debug\netcoreapp3.1\ej.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\ej\obj\Debug\netcoreapp3.1\ej.AssemblyInfo.cs
+D:\Usuario\Desktop\ej\obj\Debug\netcoreapp3.1\ej.dll
+D:\Usuario\Desktop\ej\obj\Debug\netcoreapp3.1\ej.pdb
